@@ -1,0 +1,5 @@
+#you can add file names or ignore a specific type of file
+
+#all .class files
+* .class
+text3.txt
